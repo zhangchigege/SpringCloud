@@ -1,0 +1,15 @@
+server:
+  port: 12000
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitee.com/chigege/springCloud_itcode.git #git地址
+  rabbitmq:
+    host: 192.168.92.130
+management: #暴露触发消息总线的地址
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh

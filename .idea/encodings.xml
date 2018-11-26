@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_slf4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stringCloud_controller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stringCloud_service" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

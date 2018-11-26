@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springCloud_base/springCloud_base.iml" filepath="$PROJECT_DIR$/springCloud_base/springCloud_base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_common/springCloud_common.iml" filepath="$PROJECT_DIR$/springCloud_common/springCloud_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_config/springCloud_config.iml" filepath="$PROJECT_DIR$/springCloud_config/springCloud_config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_eureka/springCloud_eureka.iml" filepath="$PROJECT_DIR$/springCloud_eureka/springCloud_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_manager/springCloud_manager.iml" filepath="$PROJECT_DIR$/springCloud_manager/springCloud_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_slf4j/springCloud_slf4j.iml" filepath="$PROJECT_DIR$/springCloud_slf4j/springCloud_slf4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_sms/springCloud_sms.iml" filepath="$PROJECT_DIR$/springCloud_sms/springCloud_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_user/springCloud_user.iml" filepath="$PROJECT_DIR$/springCloud_user/springCloud_user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springCloud_web/springCloud_web.iml" filepath="$PROJECT_DIR$/springCloud_web/springCloud_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringCloud_controller/stringCloud_controller.iml" filepath="$PROJECT_DIR$/stringCloud_controller/stringCloud_controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringCloud_parent.iml" filepath="$PROJECT_DIR$/stringCloud_parent.iml" />
+    </modules>
+  </component>
+</project>

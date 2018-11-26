@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springCloud_base" />
+        <module name="springCloud_common" />
+        <module name="springCloud_config" />
+        <module name="springCloud_eureka" />
+        <module name="springCloud_manager" />
+        <module name="springCloud_managet" />
+        <module name="springCloud_slf4j" />
+        <module name="springCloud_sms" />
+        <module name="springCloud_user" />
+        <module name="springCloud_web" />
+        <module name="stringCloud_controller" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springCloud_base" target="1.8" />
+      <module name="springCloud_common" target="1.8" />
+      <module name="springCloud_config" target="1.8" />
+      <module name="springCloud_dao" target="1.8" />
+      <module name="springCloud_eureka" target="1.8" />
+      <module name="springCloud_manager" target="1.8" />
+      <module name="springCloud_managet" target="1.8" />
+      <module name="springCloud_slf4j" target="1.8" />
+      <module name="springCloud_sms" target="1.8" />
+      <module name="springCloud_user" target="1.8" />
+      <module name="springCloud_web" target="1.8" />
+      <module name="stringCloud_controller" target="1.8" />
+      <module name="stringCloud_parent" target="1.8" />
+      <module name="stringCloud_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+server:
+  port: 8008
+spring:
+  application:
+    name: user-name
+  datasource:
+    driverClassName: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/vuejsdemo
+    username: root
+    password: root
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka
+  instance:
+    prefer-ip-address: true
+zuul:
+  routes:
+    user-name:
+      path: /user/**
+      serviceId: user-name
+jwt:
+  config:
+    key: zhangchi
+fegin:
+  hystrix:
+    enabled: true
